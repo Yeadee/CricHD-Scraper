@@ -1,0 +1,594 @@
+{
+  "info": [
+    {
+      "name": "Sky Sports Main Event",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/1.jpg",
+      "slug": "skysme"
+    },
+    {
+      "name": "Sky Sports  Cricket",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/3.png",
+      "slug": "skyscric"
+    },
+    {
+      "name": "Sky Sports  Action",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/4.png",
+      "slug": "skysact"
+    },
+    {
+      "name": "Sky Sports  Golf",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/5.png",
+      "slug": "skysgol"
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/6.jpg",
+      "slug": "skysprem"
+    },
+    {
+      "name": "Sky Sports Football",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/47.png",
+      "slug": "skysfott"
+    },
+    {
+      "name": "Sky Sports Arena",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/48.png",
+      "slug": "skysare"
+    },
+    {
+      "name": "Sky Sports F1",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/7.png",
+      "slug": "skysfor1"
+    },
+    {
+      "name": "Sky Sports Mix",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/8.png",
+      "slug": "skysmixx"
+    },
+    {
+      "name": "Sky Sports News",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/9.png",
+      "slug": "skyspnews"
+    },
+    {
+      "name": "Sky Sports Tennis",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "skystennis"
+    },
+    {
+      "name": "TNT Sports 1",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/10.gif",
+      "slug": "bbtsp1"
+    },
+    {
+      "name": "TNT Sports 2",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/11.gif",
+      "slug": "bbtsp2"
+    },
+    {
+      "name": "TNT Sports 3",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/12.gif",
+      "slug": "bbtsp3"
+    },
+    {
+      "name": "TNT Sports 4",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/13.gif",
+      "slug": "bbtespn"
+    },
+    {
+      "name": "EuroSport 1",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/14.png",
+      "slug": "eurosp1"
+    },
+    {
+      "name": "EuroSport 2",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/15.png",
+      "slug": "eurosp2"
+    },
+    {
+      "name": "Viaplay Sports 1",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/17.gif",
+      "slug": "premieruk"
+    },
+    {
+      "name": "Viaplay Sports 2 (CH2)",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/28.gif",
+      "slug": "hdchnl2"
+    },
+    {
+      "name": "Viaplay Sports Xtra (CH3)",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/29.gif",
+      "slug": "hdchnl3"
+    },
+    {
+      "name": "LaLiga Tv",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/54.png",
+      "slug": "laligauk"
+    },
+    {
+      "name": "Sky Sport 1 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/137.png",
+      "slug": "sky1nz"
+    },
+    {
+      "name": "Sky Sport 2 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/138.png",
+      "slug": "sky2nz"
+    },
+    {
+      "name": "Sky Sport 3 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/144.png",
+      "slug": "sky3nz"
+    },
+    {
+      "name": "Sky Sport 4 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/139.png",
+      "slug": "sky4nz"
+    },
+    {
+      "name": "Sky Sport 5 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/140.png",
+      "slug": "sky5nz"
+    },
+    {
+      "name": "Sky Sport 6 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/141.png",
+      "slug": "sky6nz"
+    },
+    {
+      "name": "Sky Sport 7 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/145.png",
+      "slug": "sky7nz"
+    },
+    {
+      "name": "Sky Sport 8 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/142.png",
+      "slug": "sky8nz"
+    },
+    {
+      "name": "Sky Sport 9 NZ",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/143.png",
+      "slug": "sky9nz"
+    },
+    {
+      "name": "SuperSport Football",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/93.png",
+      "slug": "superfotball"
+    },
+    {
+      "name": "SuperSport Premier",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/94.png",
+      "slug": "superpremier"
+    },
+    {
+      "name": "SuperSport Laliga",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/95.png",
+      "slug": "superlaliga"
+    },
+    {
+      "name": "SuperSport Rugby",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/96.png",
+      "slug": "supersrugby"
+    },
+    {
+      "name": "SuperSport Grandstand",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/97.png",
+      "slug": "supergrandstand"
+    },
+    {
+      "name": "SuperSport Tennis",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/98.jpg",
+      "slug": "supertennis"
+    },
+    {
+      "name": "SuperSport Action",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/99.png",
+      "slug": "superactions"
+    },
+    {
+      "name": "SuperSport Golf",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/100.png",
+      "slug": "supergolf"
+    },
+    {
+      "name": "SuperSport Maximo",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/101.png",
+      "slug": "supermeximo"
+    },
+    {
+      "name": "Fox 502 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/102.png",
+      "slug": "fox5022"
+    },
+    {
+      "name": "Fox 503 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/103.png",
+      "slug": "fox503"
+    },
+    {
+      "name": "Fox 504 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/104.png",
+      "slug": "fox504"
+    },
+    {
+      "name": "Fox 505 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/105.png",
+      "slug": "fox505"
+    },
+    {
+      "name": "Fox 506 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/106.png",
+      "slug": "fox506"
+    },
+    {
+      "name": "SuperSport PSL",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/127.jpg",
+      "slug": "superpsl"
+    },
+    {
+      "name": "WWE Network",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/16.gif",
+      "slug": "wwe"
+    },
+    {
+      "name": "PTV Sports",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/18.png",
+      "slug": "ptvpk"
+    },
+    {
+      "name": "Star Sports",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/19.png",
+      "slug": "star1in"
+    },
+    {
+      "name": "Willow Cricket HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/20.png",
+      "slug": "willowusa"
+    },
+    {
+      "name": "SuperSport Cricket HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/49.png",
+      "slug": "supercricket"
+    },
+    {
+      "name": "TEN Sports pk",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/50.gif",
+      "slug": "tenspk"
+    },
+    {
+      "name": "Star Sports 1 Hindi",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/51.gif",
+      "slug": "starhindi"
+    },
+    {
+      "name": "Star Sports 2",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/53.png",
+      "slug": "star2in"
+    },
+    {
+      "name": "Willow Cricket Extra",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/55.png",
+      "slug": "willowextra"
+    },
+    {
+      "name": "A Sports HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/56.png",
+      "slug": "asportshd"
+    },
+    {
+      "name": "Fox Cricket 501 HD",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/81.png",
+      "slug": "fox501"
+    },
+    {
+      "name": "ESPN US",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/147.png",
+      "slug": "espnusa"
+    },
+    {
+      "name": "ESPN 2 US",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/148.png",
+      "slug": "espn2"
+    },
+    {
+      "name": "Geo Super",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/21.jpg",
+      "slug": "geosp"
+    },
+    {
+      "name": "Sony ESPN",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/22.png",
+      "slug": "sonyespnind"
+    },
+    {
+      "name": "Sony Six",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/23.png",
+      "slug": "sonysixind"
+    },
+    {
+      "name": "Sky Sports Box Office",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/25.png",
+      "slug": "hdchnl20"
+    },
+    {
+      "name": "TEN 1",
+      "logo": "https://me.crichd.tv/assets/uploads/channels/52.png",
+      "slug": "ten1hd"
+    },
+    {
+      "name": "Bein Sports 3 English",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein3en"
+    },
+    {
+      "name": "Bein Sports 1 English",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1en"
+    },
+    {
+      "name": "Bein Sports 2 English",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2en"
+    },
+    {
+      "name": "Bein Sports 1 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1arab"
+    },
+    {
+      "name": "Bein Sports 2 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2arab"
+    },
+    {
+      "name": "Bein Sports 3 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein3arab"
+    },
+    {
+      "name": "Bein Sports 4 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein4arab"
+    },
+    {
+      "name": "Bein Sports 5 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein5arab"
+    },
+    {
+      "name": "Bein Sports 6 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein6arab"
+    },
+    {
+      "name": "Bein Sports 7 AR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein7arab"
+    },
+    {
+      "name": "ITV 4 UK",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "itv4"
+    },
+    {
+      "name": "beIN SPORTS 1 Premium",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1prem"
+    },
+    {
+      "name": "beIN SPORTS 2 Premium",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2prem"
+    },
+    {
+      "name": "beIN SPORTS 3 Premium",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein3prem"
+    },
+    {
+      "name": "beIN SPORTS 1 FR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1fr"
+    },
+    {
+      "name": "beIN SPORTS 2 FR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2fr"
+    },
+    {
+      "name": "beIN SPORTS 3 FR",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein3fr"
+    },
+    {
+      "name": "Gazi TV BD",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "gazitv"
+    },
+    {
+      "name": "Bein Sports XTRA 1 HD",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1extra"
+    },
+    {
+      "name": "Bein Sports XTRA 2 HD",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2extra"
+    },
+    {
+      "name": "beIN Sports Canada HD",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "ptvpk"
+    },
+    {
+      "name": "DAZN 1 Espa\u00f1a",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "dazn1es"
+    },
+    {
+      "name": "M. LaLiga",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "mlaliga"
+    },
+    {
+      "name": "DAZN LALIGA Espa\u00f1a",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "daznlaliga"
+    },
+    {
+      "name": "beIN Sport USA",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bbeinusapop23"
+    },
+    {
+      "name": "beIN Sports MAX 2",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2max"
+    },
+    {
+      "name": "Gol Mundial ES",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "golmundiales"
+    },
+    {
+      "name": "FOX Sports 1 USA",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "usafox1"
+    },
+    {
+      "name": " beIN Sports 1 France",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein1france"
+    },
+    {
+      "name": " beIN Sports 2 France",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "bein2france"
+    },
+    {
+      "name": "Gol Mundial 2 ES",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "golmundiales2"
+    },
+    {
+      "name": "Arena Sport 6 Croatia",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "arena6"
+    },
+    {
+      "name": "Sky Sports F1 BackUp",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "skysfor1"
+    },
+    {
+      "name": "Sky Sports Cricket UK Backup",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "skyscric"
+    },
+    {
+      "name": "FOX Sports 2 USA",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "usafox2"
+    },
+    {
+      "name": "FOX Soccer Plus",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "foxsoccerplus"
+    },
+    {
+      "name": "Channel 1 (BBC ONE)",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl1"
+    },
+    {
+      "name": "Channel 4 ( ITV UK )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl4"
+    },
+    {
+      "name": "Channel 5 ( BBC2 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl5"
+    },
+    {
+      "name": "Channel 6 - SuperSport Variety 1",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl6"
+    },
+    {
+      "name": "Channel 7 - SuperSport Variety 2",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl7"
+    },
+    {
+      "name": "Channel 8 - SuperSport Variety 3",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl8"
+    },
+    {
+      "name": "Channel 9 - SuperSport Variety 4",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl9"
+    },
+    {
+      "name": "Ch10 ( BT Sport 5 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl10"
+    },
+    {
+      "name": "Ch11 ( BT Sport 6 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl11"
+    },
+    {
+      "name": "Ch12 ( BT Sport 7 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl12"
+    },
+    {
+      "name": "Ch13 ( BT Sport 8 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl13"
+    },
+    {
+      "name": "Ch14 ( BT Sport 9 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl14"
+    },
+    {
+      "name": "Ch15 ( BT Sport 10 )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl15"
+    },
+    {
+      "name": "Channel 16",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl16"
+    },
+    {
+      "name": "Channel 17",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl17"
+    },
+    {
+      "name": "Channel 18",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl18"
+    },
+    {
+      "name": "Channel 19 ( Sports18 HD )",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl19"
+    },
+    {
+      "name": "Channel 20",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "hdchnl20"
+    },
+    {
+      "name": "HIGH HD 3",
+      "logo": "https://me.crichd.tv/assets/images/custom-channels.png",
+      "slug": "mls786"
+    }
+  ]
+}
